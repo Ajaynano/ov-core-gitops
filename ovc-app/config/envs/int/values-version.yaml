@@ -1,5 +1,5 @@
 admin-ui:
-  imageVersion: 1.0.3-int
+  imageVersion: 1.0.6-int
 
 auditor:
   imageVersion: 1.0.0-int
