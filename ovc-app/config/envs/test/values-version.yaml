@@ -5,7 +5,7 @@ auditor:
   imageVersion: 1.0.1-dev
 
 c-m:
-  imageVersion: 1.0.0-dev
+  imageVersion: 1.0.1-dev
   
 s-r-creator:
   imageVersion: 1.0.0-dev
