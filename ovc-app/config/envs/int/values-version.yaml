@@ -2,7 +2,7 @@ admin-ui:
   imageVersion: 1.0.5-int
 
 auditor:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.2-int
 
 s-r-creator:
   imageVersion: 1.0.0-int
