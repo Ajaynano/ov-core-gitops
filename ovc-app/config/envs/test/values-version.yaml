@@ -2,4 +2,29 @@ admin-ui:
   imageVersion: 1.0.24-dev
 
 auditor:
+<<<<<<< HEAD
+  imageVersion: 1.0.0-dev
+
+c-m:
+  imageVersion: 1.0.0-dev
+  
+s-r-creator:
+  imageVersion: 1.0.0-dev
+
+s-r-l:
+  imageVersion: 1.0.0-dev
+
+s-r-p:
+  imageVersion: 1.0.0-dev
+
+s-r-collector:
+  imageVersion: 1.0.0-dev
+
+t-l:
+  imageVersion: 1.0.0-dev
+
+t-d:
+  imageVersion: 1.0.0-dev
+=======
   imageVersion: 1.0.26-dev
+>>>>>>> f40a3dd28fab91ffc621a94838d52c61c67ad7cd
