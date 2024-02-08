@@ -2,4 +2,4 @@ admin-ui:
   imageVersion: 1.0.24-dev
 
 auditor:
-  imageVersion: 1.0.0-dev
+  imageVersion: 1.0.26-dev
