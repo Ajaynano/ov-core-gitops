@@ -2,7 +2,6 @@ admin-ui:
   imageVersion: 1.0.24-dev
 
 auditor:
-<<<<<<< HEAD
   imageVersion: 1.0.0-dev
 
 c-m:
@@ -25,6 +24,3 @@ t-l:
 
 t-d:
   imageVersion: 1.0.0-dev
-=======
-  imageVersion: 1.0.26-dev
->>>>>>> f40a3dd28fab91ffc621a94838d52c61c67ad7cd
