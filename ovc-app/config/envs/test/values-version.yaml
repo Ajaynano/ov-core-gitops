@@ -1,11 +1,11 @@
 admin-ui:
-  imageVersion: 1.0.1-dev
+  imageVersion: 1.0.0-dev
 
 auditor:
-  imageVersion: 1.0.25-dev
+  imageVersion: 1.0.0-dev
 
 c-m:
-  imageVersion: 1.0.1-dev
+  imageVersion: 1.0.0-dev
   
 s-r-creator:
   imageVersion: 1.0.0-dev

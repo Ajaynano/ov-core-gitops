@@ -1,23 +1,26 @@
 admin-ui:
-  imageVersion: 1.0.30-int
+  imageVersion: 1.0.0-dev
 
 auditor:
-  imageVersion: 1.0.2-int
+  imageVersion: 1.0.0-dev
 
+c-m:
+  imageVersion: 1.0.0-dev
+  
 s-r-creator:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.0-dev
 
 s-r-l:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.0-dev
 
 s-r-p:
-  imageVersion: 1.0.1-int
+  imageVersion: 1.0.0-dev
 
 s-r-collector:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.0-dev
 
 t-l:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.0-dev
 
 t-d:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.0-dev
