@@ -2,7 +2,7 @@ admin-ui:
   imageVersion: 1.0.42-int
 
 auditor:
-  imageVersion: 1.3.8-int
+  imageVersion: 1.3.9-int
 
 c-m:
   imageVersion: 1.0.0-int
