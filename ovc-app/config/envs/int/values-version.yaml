@@ -2,16 +2,16 @@ admin-ui:
   imageVersion: 1.0.42-int
 
 auditor:
-  imageVersion: 1.4.0-int
+  imageVersion: 1.4.8-int
 
 c-m:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.2-int
   
 s-r-creator:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.1-int
 
 s-r-l:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.0.1-int
 
 s-r-p:
   imageVersion: 1.0.0-int
