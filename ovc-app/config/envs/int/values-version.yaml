@@ -17,7 +17,7 @@ s-r-p:
   imageVersion: 1.0.0-int
 
 s-r-collector:
-  imageVersion: 1.0.0-int
+  imageVersion: 1.2.1-int
 
 t-l:
   imageVersion: 1.0.0-int
